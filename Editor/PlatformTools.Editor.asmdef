@@ -1,0 +1,7 @@
+{
+  "name": "PlatformTools.Editor",
+  "rootNamespace": "PlatformTools.Editor",
+  "references": ["PlatformTools.Core"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": false
+}

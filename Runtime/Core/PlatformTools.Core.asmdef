@@ -1,0 +1,6 @@
+{
+  "name": "PlatformTools.Core",
+  "rootNamespace": "PlatformTools",
+  "references": ["UniTask"],
+  "autoReferenced": false
+}

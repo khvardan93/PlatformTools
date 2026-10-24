@@ -1,0 +1,7 @@
+{
+  "name": "PlatformTools.Mock",
+  "rootNamespace": "PlatformTools.Mock",
+  "references": ["PlatformTools.Core", "UniTask"],
+  "defineConstraints": ["UNITY_EDITOR || PLATFORM_NONE"],
+  "autoReferenced": false
+}

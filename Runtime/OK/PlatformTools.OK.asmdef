@@ -1,0 +1,9 @@
+{
+  "name": "PlatformTools.OK",
+  "rootNamespace": "PlatformTools.OK",
+  "references": ["PlatformTools.Core", "UniTask"],
+  "includePlatforms": ["Editor", "WebGL"],
+  "defineConstraints": ["PLATFORM_FACEBOOK"],
+  "allowUnsafeCode": true,
+  "autoReferenced": false
+}

@@ -1,0 +1,7 @@
+{
+  "name": "com.khvardan.platformtools",
+  "version": "0.1.0",
+  "displayName": "Platform Tools",
+  "description": "WebGL platform SDK layer (Facebook, OK, ...) selected per build profile.",
+  "unity": "6000.0"
+}

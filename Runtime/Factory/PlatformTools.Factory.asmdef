@@ -1,0 +1,6 @@
+{
+  "name": "PlatformTools.Factory",
+  "rootNamespace": "PlatformTools",
+  "references": ["PlatformTools.Core", "PlatformTools.Mock", "PlatformTools.Facebook", "PlatformTools.OK"],
+  "autoReferenced": false
+}

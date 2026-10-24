@@ -1,0 +1,9 @@
+{
+  "name": "PlatformTools.Facebook",
+  "rootNamespace": "PlatformTools.Facebook",
+  "references": ["PlatformTools.Core", "UniTask"],
+  "includePlatforms": ["Editor", "WebGL"],
+  "defineConstraints": ["PLATFORM_FACEBOOK"],
+  "allowUnsafeCode": true,
+  "autoReferenced": false
+}
