@@ -1,0 +1,8 @@
+{
+  "name": "PlatformTools.UnityPlay",
+  "rootNamespace": "PlatformTools.UnityPlay",
+  "references": ["PlatformTools.Core", "UniTask"],
+  "includePlatforms": ["Editor", "WebGL"],
+  "defineConstraints": ["PLATFORM_UNITY_PLAY"],
+  "autoReferenced": false
+}

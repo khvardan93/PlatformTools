@@ -1,9 +1,22 @@
 {
-  "name": "PlatformTools.OK",
-  "rootNamespace": "PlatformTools.OK",
-  "references": ["PlatformTools.Core", "UniTask"],
-  "includePlatforms": ["Editor", "WebGL"],
-  "defineConstraints": ["PLATFORM_FACEBOOK"],
-  "allowUnsafeCode": true,
-  "autoReferenced": false
+    "name": "PlatformTools.OK",
+    "rootNamespace": "PlatformTools.OK",
+    "references": [
+        "PlatformTools.Core",
+        "UniTask"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "WebGL"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "PLATFORM_OK"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
