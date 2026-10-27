@@ -1,6 +1,20 @@
 {
-  "name": "PlatformTools.Factory",
-  "rootNamespace": "PlatformTools",
-  "references": ["PlatformTools.Core", "PlatformTools.Mock", "PlatformTools.Facebook", "PlatformTools.OK"],
-  "autoReferenced": false
+    "name": "PlatformTools.Factory",
+    "rootNamespace": "PlatformTools",
+    "references": [
+        "PlatformTools.Core",
+        "PlatformTools.Mock",
+        "PlatformTools.Facebook",
+        "PlatformTools.OK",
+        "PlatformTools.UnityPlay"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
