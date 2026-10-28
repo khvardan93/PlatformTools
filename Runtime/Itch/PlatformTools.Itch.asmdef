@@ -1,0 +1,8 @@
+{
+  "name": "PlatformTools.Itch",
+  "rootNamespace": "PlatformTools.Itch",
+  "references": ["PlatformTools.Core", "UniTask"],
+  "includePlatforms": ["Editor", "WebGL"],
+  "defineConstraints": ["PLATFORM_ITCH"],
+  "autoReferenced": false
+}

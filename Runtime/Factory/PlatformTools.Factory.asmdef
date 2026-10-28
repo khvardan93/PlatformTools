@@ -6,7 +6,8 @@
         "PlatformTools.Mock",
         "PlatformTools.Facebook",
         "PlatformTools.OK",
-        "PlatformTools.UnityPlay"
+        "PlatformTools.UnityPlay",
+        "PlatformTools.Itch"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

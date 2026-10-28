@@ -10,6 +10,8 @@
             return new PlatformTools.OK.OkPlatform(settings);
 #elif PLATFORM_UNITY_PLAY && !UNITY_EDITOR
             return new PlatformTools.UnityPlay.UnityPlayPlatform(settings);
+#elif PLATFORM_ITCH && !UNITY_EDITOR
+            return new PlatformTools.Itch.ItchPlatform(settings);
 #else
             return new PlatformTools.Mock.MockPlatform(settings ? settings.mockConfig : null);
 #endif
