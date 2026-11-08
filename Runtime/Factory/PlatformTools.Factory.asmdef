@@ -8,7 +8,8 @@
         "PlatformTools.OK",
         "PlatformTools.UnityPlay",
         "PlatformTools.Itch",
-        "PlatformTools.GameJolt"
+        "PlatformTools.GameJolt",
+        "PlatformTools.VK"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

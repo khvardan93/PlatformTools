@@ -1,0 +1,9 @@
+{
+  "name": "PlatformTools.VK",
+  "rootNamespace": "PlatformTools.VK",
+  "references": ["PlatformTools.Core", "UniTask"],
+  "includePlatforms": ["Editor", "WebGL"],
+  "defineConstraints": ["PLATFORM_VK"],
+  "allowUnsafeCode": true,
+  "autoReferenced": false
+}

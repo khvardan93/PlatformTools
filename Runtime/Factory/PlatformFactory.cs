@@ -14,6 +14,8 @@
             return new PlatformTools.Itch.ItchPlatform(settings);
 #elif PLATFORM_GAMEJOLT && !UNITY_EDITOR
             return new PlatformTools.GameJolt.GameJoltPlatform(settings);
+#elif PLATFORM_VK && !UNITY_EDITOR
+            return new PlatformTools.VK.VkPlatform(settings);
 #else
             return new PlatformTools.Mock.MockPlatform(settings ? settings.mockConfig : null);
 #endif
